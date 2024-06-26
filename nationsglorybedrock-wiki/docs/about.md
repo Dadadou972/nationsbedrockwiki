@@ -2,46 +2,17 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Bienvenue sur le wiki!
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Nations glory est un des plus gros serveurs miencraft francais, ouvert en 2013 il comptabilise plusieur centaines de milier des joueurs. Nous sommes ici pour te présenter la version bedrock de nationsglory.
+Ouverte en 2020, ces serveurs offrent une experience de jeu unique , une communauté exceptionnele est un gameplay hors du commun.
 
-## Getting Started
+Tu est nouveau? Pas de soucis prend le temps de lire ce wiki ou nous te guideront pas à pas dans ta conquête du monde.
 
-Get started by **creating a new site**.
+:::warning Ce wiki n'est pas officiel mais il a étédevelopper pas des joueurs qui trouvait le wiki pas asser détaillé. :::
+:::Tips si tu souhaite nous aider tu peut mp discord Theking97 ::::
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+La bande annonce de nations glory bedrock: 
 
-### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+https://www.youtube.com/watch?v=Mlhq0ItfGf8&t=1s
